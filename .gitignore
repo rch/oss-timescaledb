@@ -1,3 +1,4 @@
+.direnv/
 \#*#
 .#*
 *~
@@ -34,3 +35,8 @@ typedef.list
 /cmake-build-debug/
 /.idea/
 coccinelle.diff
+
+# Devenv
+.devenv*
+devenv.local.nix
+
